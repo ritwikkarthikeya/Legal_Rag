@@ -1,0 +1,12 @@
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/DocumentServiceApplication.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/config/webClientConfig.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/controllers/documentController.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/dto/embeddingRequest.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/model/Clause.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/model/Document.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/repository/ClauseRepository.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/repository/DocumentRepository.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/services/ClauseSplitter.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/services/DocumentService.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/services/documentParser.java
+/Users/ritwik/Desktop/Clg/Legal_Rag/document_service/src/main/java/com/backend/document_service/services/embeddingClient.java
