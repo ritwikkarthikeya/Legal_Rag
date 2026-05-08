@@ -1,5 +1,6 @@
 package com.backend.embedding_service.model;
-import com.pgvector.PGvector;
+import org.hibernate.annotations.JdbcTypeCode;
+import org.hibernate.type.SqlTypes;
 import jakarta.persistence.*;
 import lombok.Data;
 
@@ -15,6 +16,7 @@ public class clauseEmbedding {
     @Column(columnDefinition = "TEXT")
     private String text;
     
+    @JdbcTypeCode(SqlTypes.VECTOR)
     @Column(columnDefinition = "vector(1536)")
-    private PGvector embedding;
+    private float[] embedding;
 }
